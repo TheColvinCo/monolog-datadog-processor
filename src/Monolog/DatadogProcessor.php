@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Monolog;
+namespace Colvin\Monolog;
 
 use DDTrace\GlobalTracer;
 
